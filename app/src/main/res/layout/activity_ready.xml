@@ -20,10 +20,10 @@
             android:id="@+id/text"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_gravity="center"
-            android:text="@string/main_greet"
+            android:text="@string/ready_ready"
+            android:textAlignment="center"
             android:textSize="@dimen/screen_percentage_15"
-            android:textAlignment="center" />
+            android:gravity="center" />
 
     </FrameLayout>
 </android.support.wear.widget.BoxInsetLayout>
