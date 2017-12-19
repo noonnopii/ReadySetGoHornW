@@ -49,7 +49,7 @@ public class MainActivity extends WearableActivity {
                         break;
                 }
                 step++;
-
+                // this
             }
         });
     }
