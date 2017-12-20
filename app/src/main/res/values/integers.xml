@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="readyDelay">1500</integer>
+    <integer name="setDelay">3000</integer>
+    <integer name="goDelay">4500</integer>
+</resources>

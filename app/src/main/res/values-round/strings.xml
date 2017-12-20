@@ -1,7 +1,16 @@
 <resources>
-    <string name="main_greet">Ready! Set! Go! (Horn~)</string>
-    <string name="start_startButton">Start!</string>
-    <string name="ready_ready">Ready...</string>
-    <string name="set_set">Set...</string>
-    <string name="go_go">Go!</string>
+    <string name="main_textGreeting">Ready! Set! Go! (Horn~)</string>
+
+    <string name="main_buttonStart">Ready to start</string>
+    <string name="main_buttonSetting">Setting</string>
+
+    <string name="start_buttonStart">Start now!</string>
+
+    <string name="start_textReady">Ready...</string>
+    <string name="start_textSet">Set...</string>
+    <string name="start_textGo">Go!</string>
+    <string name="start_textRestart">Restart</string>
+
+    <string name="setting_textSetting">[Setting]</string>
+    <string name="setting_textOption">No option</string>
 </resources>

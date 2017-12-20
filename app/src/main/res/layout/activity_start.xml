@@ -17,12 +17,12 @@
         app:boxedEdges="all">
 
         <Button
-            android:id="@+id/button_startButton"
+            android:id="@+id/start_buttonStart"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="@string/start_startButton"
+            android:text="@string/start_buttonStart"
             android:textSize="@dimen/screen_percentage_15"
-            android:onClick="@+id/MainActivity"/>
+            android:onClick="@+id/StartActivity"/>
 
     </FrameLayout>
 </android.support.wear.widget.BoxInsetLayout>
